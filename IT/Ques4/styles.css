@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+
+    background-color:bisque;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    gap: 0.3rem;
+    
+}
+
+.eachRow{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.individualCell{
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+}
+
+.times1{
+    font-size: 1.1rem;
+    color:navy;
+}
+.times2{
+    font-size: 1.3rem;
+    color:dodgerblue;
+}
+.times3{
+    font-size: 1.5rem;
+    color:navy;
+}
+.times4{
+    font-size: 1.7rem;
+    color:dodgerblue;
+}
+.times5{
+    font-size: 1.9rem;
+    color:navy;
+}
+.times6{
+    font-size:2.1rem;
+    color:dodgerblue;
+}
+.times7{
+    font-size: 2.3rem;
+    color:navy;
+}
+.times8{
+    font-size: 2.5rem;
+    color:dodgerblue;
+}
+.times9{
+    font-size: 2.7rem;
+    color:navy;
+}
+.times10{
+    font-size: 2.9rem;
+    color:dodgerblue;
+}

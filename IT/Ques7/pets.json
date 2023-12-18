@@ -1,0 +1,25 @@
+[
+    {
+        "name": "heaven",
+        "age": "6",
+        "weight": "35",
+        "type": "dog",
+        "likes": "biscuit"
+    }
+    ,
+    {
+        "name": "nancy",
+        "age": "3",
+        "weight": "0.25",
+        "type": "bird",
+        "likes": "singing"
+    }
+    ,
+    {
+        "name": "joy",
+        "age": "8",
+        "weight": "4",
+        "type": "cat",
+        "likes": "milk"
+    }
+]
